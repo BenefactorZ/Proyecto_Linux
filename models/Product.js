@@ -8,3 +8,8 @@ const productSchema = new mongoose.Schema({
 const Product = mongoose.model('Product', productSchema);
 
 module.exports = Product;
+<<<<<<< HEAD
+=======
+ 
+
+>>>>>>> 1205a4d (Implementación del backend)
